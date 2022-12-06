@@ -55,6 +55,27 @@
   border-radius: 50%;
 }
 
-section {
+@media (min-width: 300px) {
+  #hero {
+    height: 855.344px;
+  }
+}
+
+@media (min-width: 576px) {
+  #hero {
+    height: 924.344px;
+  }
+}
+
+@media (min-width: 768px) {
+  #hero {
+    height: 455.344px;
+  }
+}
+
+@media (min-width: 992px) {
+  #hero {
+    height: 515.344px;
+  }
 }
 
