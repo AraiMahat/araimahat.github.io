@@ -43,8 +43,8 @@
 
 @media (min-width: 576px) {
   #reasons {
-    height: 1479.61px;
-    margin: 280px 30px;
+    height: 1504.61px;
+    margin: 120px 30px;
   }
 }
 
@@ -63,7 +63,7 @@
 
 @media (min-width: 576px) {
   #lessons {
-    /*height: 396px;*/
+    height: 390px;
   }
 }
 
@@ -81,19 +81,20 @@
 
 @media (min-width: 768px) {
   #reasons {
-    height: 425.61px;
+    height: 528.594px;
   }
 }
 
 @media (min-width: 768px) {
   #lessons {
-    height: 382px;
+    height: 540px;
   }
 }
 
 @media (min-width: 768px) {
   #herosec1 {
-    height: 472.344px;
+    height: 360.344px;
+    margin: 100px 0px;
   }
 }
 
@@ -109,9 +110,21 @@
   }
 }
 
+@media (min-width: 768px) {
+  h4 {
+    font-size: 14.704px;
+  }
+}
+
+@media (min-width: 768px) {
+  #herocon {
+    height: 370.375px;
+  }
+}
+
 @media (min-width: 992px) {
   #lessons {
-    height: 617px;
+    height: 695px;
   }
 }
 
@@ -139,21 +152,52 @@
   }
 }
 
+@media (min-width: 992px) {
+  #reasons {
+    height: 496.609px;
+  }
+}
+
+@media (min-width: 992px) {
+  h4 {
+    font-size: 19.704px;
+  }
+}
+
 @media (min-width: 1200px) {
   #lessons {
-    height: 576px;
+    height: 750px;
+  }
+}
+
+@media (min-width: 1200px) {
+  h4 {
+    font-size: 23.704px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #reasons {
+    height: 663.594px;
   }
 }
 
 @media (min-width: 1400px) {
   #lessons {
-    height: 579px;
+    height: 847px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #herocon {
+    height: 400.375px;
   }
 }
 
 @media (min-width: 1400px) {
   #reasons {
-    height: 515.609px;
+    height: 851.609px;
+    margin: 0px;
   }
 }
 
