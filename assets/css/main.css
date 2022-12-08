@@ -1,4 +1,78 @@
-#headtitle {
-  font-size: 30px;
+@media (min-width: 300px) {
+  #headtitle {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 576px) {
+  #headtitle {
+    font-size: 26px;
+  }
+}
+
+@media (min-width: 992px) {
+  #headtitle {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 300px) {
+  #herocon {
+    height: 578.375px;
+  }
+}
+
+@media (min-width: 300px) {
+  #reasons {
+    margin: 100px 0px;
+  }
+}
+
+@media (min-width: 300px) {
+  #headtitlesec {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 300px) {
+  #contactus {
+    height: 344px;
+  }
+}
+
+@media (min-width: 300px) {
+  #contactname {
+    font-size: 21px;
+  }
+}
+
+@media (min-width: 576px) {
+  #headtitlesec {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 768px) {
+  #reasons {
+    margin: 20px ;
+  }
+}
+
+@media (min-width: 768px) {
+  #contactname {
+    font-size: 29px;
+  }
+}
+
+@media (min-width: 992px) {
+  #contactus {
+    height: 152px;
+  }
+}
+
+@media (min-width: 768px) {
+  #contactus {
+    height: 225px;
+  }
 }
 

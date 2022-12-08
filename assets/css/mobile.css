@@ -1,0 +1,159 @@
+@media (min-width: 300px) {
+  #textname {
+    height: 390.688px;
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 300px) {
+  #heading {
+    font-size: 21.4px;
+  }
+}
+
+@media (min-width: 300px) {
+  #herosec1 {
+    height: 680.344px;
+  }
+}
+
+@media (min-width: 300px) {
+  #lessons {
+    height: 226px;
+  }
+}
+
+@media (min-width: 300px) {
+  #title2 {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 300px) {
+  #license {
+    height: 2354.06px;
+  }
+}
+
+@media (min-width: 300px) {
+  #reasons {
+    height: 1612.62px;
+  }
+}
+
+@media (min-width: 576px) {
+  #reasons {
+    height: 1479.61px;
+    margin: 280px 30px;
+  }
+}
+
+@media (min-width: 576px) {
+  #textname {
+    height: 300.688px;
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 576px) {
+  #herosec1 {
+    height: 818.344px;
+  }
+}
+
+@media (min-width: 576px) {
+  #lessons {
+    /*height: 396px;*/
+  }
+}
+
+@media (min-width: 576px) {
+  #heading {
+    font-size: 29.4px;
+  }
+}
+
+@media (min-width: 576px) {
+  #license {
+    height: 3513.05px;
+  }
+}
+
+@media (min-width: 768px) {
+  #reasons {
+    height: 425.61px;
+  }
+}
+
+@media (min-width: 768px) {
+  #lessons {
+    height: 382px;
+  }
+}
+
+@media (min-width: 768px) {
+  #herosec1 {
+    height: 472.344px;
+  }
+}
+
+@media (min-width: 768px) {
+  #textname {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 768px) {
+  #license {
+    height: 1455.05px;
+  }
+}
+
+@media (min-width: 992px) {
+  #lessons {
+    height: 617px;
+  }
+}
+
+@media (min-width: 992px) {
+  #license {
+    height: 1503.05px;
+  }
+}
+
+@media (min-width: 992px) {
+  #heading {
+    font-size: 38.4px;
+  }
+}
+
+@media (min-width: 992px) {
+  #textname {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 992px) {
+  #title2 {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #lessons {
+    height: 576px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #lessons {
+    height: 579px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #reasons {
+    height: 515.609px;
+  }
+}
+
