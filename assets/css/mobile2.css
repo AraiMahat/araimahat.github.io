@@ -48,3 +48,20 @@
   }
 }
 
+@media (min-width: 1400px) {
+  #courses {
+    height: 760.92px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #herow {
+  }
+}
+
+@media (min-width: 1400px) {
+  #sec332 {
+    height: 681.94px;
+  }
+}
+
