@@ -12,7 +12,7 @@
 
 @media (min-width: 768px) {
   #sec0993 {
-    height: 760.906px;
+    height: 717.906px;
   }
 }
 
@@ -24,7 +24,7 @@
 
 @media (min-width: 992px) {
   #sec634 {
-    height: 507px;
+    height: 468px;
   }
 }
 
@@ -62,6 +62,354 @@
 @media (min-width: 1400px) {
   #sec332 {
     height: 681.94px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #too1 {
+    font-size: 36.4px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #too {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #map {
+    height: 379.594px;
+  }
+}
+
+@media (min-width: 300px) {
+  #courses {
+    height: 1808.92px;
+  }
+}
+
+@media (min-width: 576px) {
+  #reasons {
+    height: 1599.61px;
+  }
+}
+
+@media (min-width: 300px) {
+  #contactus {
+  }
+}
+
+@media (min-width: 576px) {
+  #contactus {
+    height: 333px;
+  }
+}
+
+@media (min-width: 576px) {
+  #courses {
+    height: 1807.91px;
+  }
+}
+
+@media (min-width: 768px) {
+  #herosec {
+  }
+}
+
+@media (min-width: 768px) {
+  #reasons {
+    margin: 0px;
+    height: 693.594px;
+  }
+}
+
+@media (min-width: 768px) {
+  #courses {
+    height: 1252.91px;
+  }
+}
+
+@media (min-width: 768px) {
+  #contactus {
+    height: 180px;
+  }
+}
+
+@media (min-width: 992px) {
+  #courses {
+    height: 741.91px;
+  }
+}
+
+@media (min-width: 300px) {
+  body {
+  }
+}
+
+@media (min-width: 1200px) {
+  #reasons {
+    height: 853.594px;
+  }
+}
+
+@media (min-width: 300px) {
+  .btn {
+    margin-left: 24px;
+  }
+}
+
+@media (min-width: 576px) {
+  .btn {
+    margin-left: 131px;
+  }
+}
+
+@media (min-width: 768px) {
+  .btn {
+    margin: 0px -50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .btn {
+    margin: 0px -20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn {
+    margin: 0px;
+  }
+}
+
+@media (min-width: 300px) {
+  #herosec1 {
+    height: 689.344px;
+    margin-top: 63px;
+  }
+}
+
+@media (min-width: 300px) {
+  #mainNav {
+  }
+}
+
+@media (min-width: 576px) {
+  #herosec1 {
+    height: 879.344px;
+  }
+}
+
+@media (min-width: 576px) {
+  #title2 {
+    font-size: 31px;
+  }
+}
+
+@media (min-width: 768px) {
+  #herosec1 {
+    height: 400.344px;
+  }
+}
+
+@media (min-width: 768px) {
+  #lessons {
+    height: 646px;
+  }
+}
+
+@media (min-width: 992px) {
+  #lessons {
+    height: 820px;
+  }
+}
+
+@media (min-width: 300px) {
+  #img1 {
+  }
+}
+
+@media (min-width: 576px) {
+  #img1 {
+    width: 544px;
+    height: 406px;
+  }
+}
+
+@media (min-width: 768px) {
+  #img1 {
+    width: 348px;
+    height: 322px;
+  }
+}
+
+@media (min-width: 768px) {
+  #btn23 {
+    margin-left: -2px;
+  }
+}
+
+section {
+}
+
+@media (min-width: 300px) {
+  #dec432 {
+    height: 1237.938px;
+  }
+}
+
+@media (min-width: 576px) {
+  #dec432 {
+    height: 1134.94px;
+  }
+}
+
+@media (min-width: 300px) {
+  #imgdf {
+    width: 322px;
+    height: 251px;
+  }
+}
+
+@media (min-width: 576px) {
+  #imgdf {
+    width: 537px;
+    height: 312px;
+  }
+}
+
+@media (min-width: 768px) {
+  #dec432 {
+    height: 771.94px;
+  }
+}
+
+@media (min-width: 768px) {
+  #imgdf {
+    width: 362px;
+    height: 268px;
+  }
+}
+
+@media (min-width: 992px) {
+  #dec432 {
+    height: 734.938px;
+  }
+}
+
+@media (min-width: 992px) {
+  #imgdf {
+    width: 459px;
+  }
+}
+
+@media (min-width: 300px) {
+  #herow {
+    height: 840px;
+  }
+}
+
+@media (min-width: 300px) {
+  #img234 {
+    width: 323px;
+    height: 229px;
+  }
+}
+
+@media (min-width: 576px) {
+  #sec332 {
+    height: 1070.94px;
+  }
+}
+
+@media (min-width: 576px) {
+  #img234 {
+    width: 543px;
+    height: 399px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+  }
+}
+
+@media (min-width: 768px) {
+  #sec332 {
+    height: 797.94px;
+  }
+}
+
+@media (min-width: 768px) {
+  #img234 {
+    width: 385px;
+    height: 403px;
+  }
+}
+
+@media (min-width: 768px) {
+  #herow {
+    height: 629px;
+  }
+}
+
+@media (min-width: 768px) {
+  #btnf {
+    margin-right: -56px;
+    margin-left: 29px;
+  }
+}
+
+@media (min-width: 992px) {
+  #sec332 {
+    height: 683.938px;
+  }
+}
+
+@media (min-width: 992px) {
+  #img234 {
+    width: 463px;
+  }
+}
+
+@media (min-width: 992px) {
+  #herow {
+    height: 542px;
+  }
+}
+
+.btn {
+}
+
+@media (min-width: 576px) {
+  #btn324 {
+    margin-left: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  #img65 {
+    width: 381px;
+  }
+}
+
+@media (min-width: 768px) {
+  #sec634 {
+    height: 570px;
+  }
+}
+
+@media (min-width: 992px) {
+  #img65 {
+    width: 465px;
+    height: 346px;
+  }
+}
+
+@media (min-width: 300px) {
+  #pricing {
+    height: 2470.92px;
   }
 }
 

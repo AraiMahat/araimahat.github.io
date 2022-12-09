@@ -1,0 +1,45 @@
+@media (min-width: 300px) {
+  .btn {
+    margin-left: 18px;
+  }
+}
+
+@media (min-width: 576px) {
+  .btn {
+    margin-left: 127px;
+  }
+}
+
+@media (min-width: 768px) {
+  .btn {
+    margin-left: -41px;
+  }
+}
+
+@media (min-width: 992px) {
+  .btn {
+    margin-left: -5px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #img1 {
+    width: 451px;
+    height: 348px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #img1 {
+    width: 436px;
+    height: 354px;
+  }
+}
+
+@media (min-width: 992px) {
+  #img1 {
+    width: 446px;
+    height: 355px;
+  }
+}
+
