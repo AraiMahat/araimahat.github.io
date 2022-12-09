@@ -43,3 +43,42 @@
   }
 }
 
+@media (min-width: 300px) {
+  #license {
+    height: 2757.05px;
+  }
+}
+
+@media (min-width: 768px) {
+  #license {
+    height: 2090.05px;
+  }
+}
+
+.container {
+}
+
+@media (min-width: 300px) {
+  #lccon {
+    margin-right: 9.5px;
+  }
+}
+
+@media (min-width: 300px) {
+  #license-1 {
+    height: 2446.92px;
+  }
+}
+
+@media (min-width: 576px) {
+  #license-1 {
+    height: 3413.91px;
+  }
+}
+
+@media (min-width: 768px) {
+  #license-1 {
+    height: 1356.91px;
+  }
+}
+
